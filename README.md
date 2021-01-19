@@ -8,7 +8,7 @@ If you find this code is useful for your research, please consider citing it:
 
 > @article{wts,  
 > 
->        title={WTS: A weakly towards strongly supervised learning framework for remote sensing land cover classification using segmentation models},
+> ​       title={WTS: A weakly towards strongly supervised learning framework for remote sensing land cover classification using segmentation models},
 >
 >        author={Wei Zhang, Ping Tang, Thomas Corpetti and Lijun Zhao},
 >
