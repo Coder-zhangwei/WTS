@@ -26,6 +26,7 @@ We tested the code on
 - keras 2.2
 - tensorflow 1.11
 - python 3.6
+
 Other dependencies:
 - numpy
 - tqdm
