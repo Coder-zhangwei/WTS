@@ -8,9 +8,7 @@ This is the implement of WTS supervised learning framework for remote sensing la
 If you find this code is useful for your research, please consider citing it:
 > 
 >
-> @article{
-> 
->        wts,  
+> @article{wts,  
 > 
 >        title={WTS: A weakly towards strongly supervised learning framework for remote sensing land cover classification using segmentation models},
 >
