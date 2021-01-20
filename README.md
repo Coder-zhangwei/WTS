@@ -32,8 +32,18 @@ Other dependencies:
 - tqdm
 - gdal
 - cv2
-- protobuf
 - segmentation_models
 - matplotlib
 - sklearn
 - pydensecrf
+
+## Usage
+-Train SVM and generate initial seed
+
+python generate_initial_seed.py
+
+-Train Segmentation model and update seed iteratively
+
+python train_update_seed.py
+
+
