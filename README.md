@@ -20,3 +20,19 @@ If you find this code is useful for your research, please consider citing it:
 >
 >        year={2021}
 >        }
+
+## Environment
+We tested the code on
+- keras 2.2
+- tensorflow 1.11
+- python 3.6
+Other dependencies:
+- numpy
+- tqdm
+- gdal
+- cv2
+- protobuf
+- segmentation_models
+- matplotlib
+- sklearn
+- pydensecrf
